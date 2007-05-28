@@ -1,0 +1,11 @@
+Source: sidux-artwork-competition
+Section: graphics
+Priority: extra
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: sidux-artwork-competition
+Architecture: all
+Description: container for sidux art competitions
+ This is just a dummy package to keep proposed artwork for sidux in svn.
