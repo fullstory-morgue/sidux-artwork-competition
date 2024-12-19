@@ -3,5 +3,6 @@ sidux-artwork-competition (2007.02) ORPHANED; urgency=low
   * Initial Release.
   * ORPHAN PACKAGE.
   * this is just a container, nothing to release - yet.
+  * refresh SVG graphics, shut up inkscape's migration from old versions.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 28 May 2007 12:18:07 +0200
